@@ -1,0 +1,24 @@
+{
+  "name": "relax-dein-buero",
+  "version": "1.0.0",
+  "private": true,
+  "description": "relax-dein-buero",
+  "author": "capsobgit",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.10.3",
+    "gatsby-source-filesystem": "^4.10.1",
+    "gatsby-transformer-remark": "^5.10.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
